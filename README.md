@@ -1,19 +1,27 @@
-# 📘 Django CRUD App with Generic Class-Based Views (GCBVs)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Django-4.x-green?logo=django" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/Views-GCBV-informational" alt="Views Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT Badge"/>
+</p>
 
-A clean, beginner-friendly **Django CRUD application** built using **Generic Class-Based Views (GCBVs)**. This project demonstrates the power and simplicity of Django’s GCBVs to perform Create, Read, Update, and Delete operations with minimal, elegant code.
+<h1 align="center">📘 Django CRUD App with Generic Class-Based Views</h1>
 
-> ✅ Perfect for learning modern Django patterns, best practices, and reusable components in real-world CRUD applications.
+<p align="center">
+  A clean and beginner-friendly Django CRUD application built using <strong>Generic Class-Based Views (GCBVs)</strong>.  
+  Perfect for learning scalable Django patterns and practicing real-world CRUD implementation.
+</p>
 
 ---
 
 ## ✨ Features
 
 - 🧑‍💼 Manage Users (Add, View, Edit, Delete)
-- 🧱 Built with **Generic Class-Based Views**
-- 🌐 Clean and responsive UI using **Bootstrap**
-- 🔐 Django authentication system included
-- 🔄 Redirects and success messages after each action
-- 🧰 Modular and scalable project structure
+- 🔁 Built entirely with **Generic Class-Based Views (GCBVs)**
+- 🎨 Bootstrap-powered responsive interface
+- 🧱 Modular and scalable Django structure
+- 🔐 Integrated Django authentication system
+- ✅ Real-time feedback with redirects and success messages
 
 ---
 
@@ -51,7 +59,7 @@ cd django-crud-generic-views
 ```
 
 2. **Create and activate virtual environment**
-3. ```bash
+```bash
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 ```
